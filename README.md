@@ -64,6 +64,11 @@ end
 ```bash
 mv ~/Área\ de\ Trabalho/* ~/Desktop/ 2>/dev/null; rmdir ~/Área\ de\ Trabalho/ 2>/dev/null
 ```
+
+- Comando pra criar as pastas se der problema
+```bash
+mkdir -p ~/Desktop ~/Documents ~/Downloads ~/Music ~/Pictures ~/Videos ~/Public ~/Templates
+```
 	
 - Comando caso não tenha nada dentro das pastas
 ```bash
