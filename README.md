@@ -6,9 +6,11 @@
 nano ~/.config/hypr/hyprland.conf
 ```
 
-- Procure a área de INPUT e altere para: 
-	- kb_layout = br
-	- kb_model = abnt2
+- Procure a área de INPUT e altere para:
+	-	hyprland normal: hyprland.conf
+ 	-	end-4: general.conf 
+		- kb_layout = br
+		- kb_model = abnt2
 
 ## Comandos inicias
 
